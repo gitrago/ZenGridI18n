@@ -77,7 +77,7 @@
   "valueChanges": "Értékváltozások",
   "save": "mentés",
   "close": "bezárás",
-  "active": "aktív"
+  "active": "aktív",
   "deleteRulesets": "Szabály(ok) törlése",
   "deleteRulesetsConfirm": "Biztosan törli a kijelölt szabályo(ka)t? {{ruleNames}}",
   "deleteRulesetsFailed": "Nem sikerült törölni egy vagy több kért szabályt",
